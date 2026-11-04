@@ -6,5 +6,5 @@ Everyday, hundreds of people travel by train, each spending that time differentl
 I have decided to record this data and observe what passengers on trains do. This includes whether they are sitting or standing, and the activities they carry out, such as using their phone, talking, eating, reading a book, sleeping and sitting quietly. I am collecting this data during different times of the day; in the morning, on my way to University and in the afternoon, on my way home.
 
 Progress:
-So far, I have recorded a total of 150 data items from the morning and afternoon of different days, which contain information about people's activities and whether they are sitting or standing. Also, for now, I have recorded this data on the notes app on my phone as it is the most convenient way.
+So far, I have recorded a total of 123 data items from the morning and afternoon of different days, which contain information about people's activities and whether they are sitting or standing. Also, for now, I have recorded this data on the notes app on my phone as it is the most convenient way.
 
